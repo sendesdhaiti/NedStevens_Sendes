@@ -1,0 +1,15 @@
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/bin/Debug/net7.0/REPO.deps.json
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/bin/Debug/net7.0/REPO.dll
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/bin/Debug/net7.0/REPO.pdb
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/bin/Debug/net7.0/MODEL.dll
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/bin/Debug/net7.0/MODEL.pdb
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/obj/Debug/net7.0/REPO.csproj.AssemblyReference.cache
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/obj/Debug/net7.0/REPO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/obj/Debug/net7.0/REPO.AssemblyInfoInputs.cache
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/obj/Debug/net7.0/REPO.AssemblyInfo.cs
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/obj/Debug/net7.0/REPO.csproj.CoreCompileInputs.cache
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/obj/Debug/net7.0/REPO.csproj.CopyComplete
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/obj/Debug/net7.0/REPO.dll
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/obj/Debug/net7.0/refint/REPO.dll
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/obj/Debug/net7.0/REPO.pdb
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/obj/Debug/net7.0/ref/REPO.dll

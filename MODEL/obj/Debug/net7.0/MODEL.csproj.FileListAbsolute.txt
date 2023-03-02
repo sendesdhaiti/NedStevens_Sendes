@@ -1,0 +1,12 @@
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/bin/Debug/net7.0/MODEL.deps.json
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/bin/Debug/net7.0/MODEL.dll
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/bin/Debug/net7.0/MODEL.pdb
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/obj/Debug/net7.0/MODEL.csproj.AssemblyReference.cache
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/obj/Debug/net7.0/MODEL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/obj/Debug/net7.0/MODEL.AssemblyInfoInputs.cache
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/obj/Debug/net7.0/MODEL.AssemblyInfo.cs
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/obj/Debug/net7.0/MODEL.csproj.CoreCompileInputs.cache
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/obj/Debug/net7.0/MODEL.dll
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/obj/Debug/net7.0/refint/MODEL.dll
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/obj/Debug/net7.0/MODEL.pdb
+/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/obj/Debug/net7.0/ref/MODEL.dll

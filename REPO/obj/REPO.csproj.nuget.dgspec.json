@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/REPO.csproj": {}
+  },
+  "projects": {
+    "/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/MODEL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/MODEL.csproj",
+        "projectName": "MODEL",
+        "projectPath": "/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/MODEL.csproj",
+        "packagesPath": "/Users/sendes/.nuget/packages/",
+        "outputPath": "/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sendes/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/REPO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/REPO.csproj",
+        "projectName": "REPO",
+        "projectPath": "/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/REPO.csproj",
+        "packagesPath": "/Users/sendes/.nuget/packages/",
+        "outputPath": "/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/REPO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sendes/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/MODEL.csproj": {
+                "projectPath": "/Users/sendes/Downloads/NedStevens/NedStevens_Sendes/MODEL/MODEL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
